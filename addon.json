@@ -1,0 +1,11 @@
+{
+	"title"		:	"TTT Traitor/Det Door Locking",
+	"type"		:	"Weapon",
+	"tags"		:	[ "Fun", "Roleplay" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
